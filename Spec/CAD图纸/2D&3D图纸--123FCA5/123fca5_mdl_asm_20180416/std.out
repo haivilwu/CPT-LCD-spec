@@ -1,0 +1,1127 @@
+Creo Elements/Pro is running with Unicode string encoding.
+DUMMY - pro_set_input_devices_allowed
+DUMMY - putxyres
+pglSetStatus: Pgl Session Initialize
+DUMMY - putxyres
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo Elements\Pro5.0\\x86e_win64\obj\SWConvert.exe accessible (INFO MESSAGE)
+browser_get_type_sysdep:  type = 1 (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 40 commands (INFO MESSAGE)
+uit_get_visual_style_low:  Style is PTC Wildfire 5 (INFO MESSAGE)
+dll_get_func_ptr_msgq:  OS error 127 while getting ptr to 'gGetProtocolVersion' in 'gPlug' (ORDER_DEBUG)
+uit_get_visual_style_low:  Style is PTC Wildfire 5 (INFO MESSAGE)
+pglSetStatus: PglWindowEndNoGraphics: Not in nographics mode.
+
+ run mode = 2
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+pro_locate_colormap ()
+located color definition C:\Program Files\PTC\Creo Elements\Pro5.0\graphic-library\appearances\appearance.dmt
+pro_locate_colormap ()
+located color definition C:\Program Files\PTC\Creo Elements\Pro5.0\graphic-library\appearances\global.dmt
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+IntfSettingsHandlerById:  uninitialized 0 (INFO MESSAGE)
+IntfSettingsHandlerById:  uninitialized 0 (INFO MESSAGE)
+IntfSettingsHandlerById:  uninitialized 0 (INFO MESSAGE)
+DlgImptNewModel:  using values from profile (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1992
+ dbkey_get : invalid call, key = -1992
+pfa_set_content_hints:  leaving Default-Enhanced-realism.scn alone (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+ almost_tangent_edge_check: edge id  613   really not tangent
+ almost_tangent_edge_check: edge id  628   really not tangent
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+pnt_in_on_cntr: could not refine close point.
+pnt_in_on_cntr: could not refine close point.
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:01. (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+ almost_tangent_edge_check: edge id  67928   really not tangent
+ almost_tangent_edge_check: edge id  67961   really not tangent
+ almost_tangent_edge_check: edge id  68379   really not tangent
+ almost_tangent_edge_check: edge id  83586   really not tangent
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+ dbkey_get : invalid call, key = -1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+number of shells 1
+number of shells 1
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+LayDispDlgRequestUpdate:  compound exist 2 but group not (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+num_line_x_ent:  cant get outline (ORDER_DEBUG)
+number of shells 1
+number of shells 2
+number of shells 3
+number of shells 3
+number of shells 4
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+number of shells 1
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4040
+interface_geometry_low:  Proc.time 00:00:00. (INFO MESSAGE)
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+make_sld_feat_from_imp_quilt:  Proc.time 00:00:00. (INFO MESSAGE)
+interface_solid_geometry:  Proc.time 00:00:00. (INFO MESSAGE)
+eval_edge_dir: angle > 15. Crv_id: 4040
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4022
+eval_edge_dir: angle > 15. Crv_id: 4040
+get_sec_area_flag:  inquiry on invalid gsec (INFO MESSAGE)
+feattop_with_data_n_func:  layer idx -2
+ (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+check_member_display_low:  inefficient call. (ORDER_DEBUG)
+ dbkey_get : invalid call, key = -1992
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+pfa_set_content_hints:  leaving Default-Enhanced-realism.scn alone (INFO MESSAGE)
+check_member_display_low:  inefficient call. (ORDER_DEBUG)
+ dbkey_get : invalid call, key = -1
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+ dbkey_get : invalid call, key = -1
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+ dbkey_get : invalid call, key = -1992
+feat_ptr_layer_id_low:  Failed to get layer id (INFO MESSAGE)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+W-promenu_on_button can not find ASSEMBLY-Move Dim
+W-promenu_on_button can not find ASSEMBLY-Modify Dim
+W-promenu_on_button can not find ASSEMBLY-Mod Explode
+W-promenu_on_button can not find ASSEMBLY-Modify Part
+W-promenu_on_button can not find ASSEMBLY-Export
+MainThread_do_task:  MT Utility not enabled and detected non main thread (ORDER_DEBUG)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+relsym_data_own_vals_upd_once_mode_start:  Update Once mode already active (INFO MESSAGE)
+get_cur_seloption_type:  Not set (ORDER_DEBUG)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+flex_mdl_ok_for_propagate:  Not supported or read only model '_123FCA5_MDL_ASM_20180416' is skipped (ORDER_DEBUG)
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+
+
+
+: 1 objects take 0.00k
+PGL_T_MODEL: 65 objects take 5.59k
+PGL_T_MDLSCHEME: 65 objects take 11.17k
+PGL_T_GPU: 203 objects take 90.40k
+PGL_T_SEGMENT: 7612 objects take 1010.97k
+PGL_T_DOCUMENT: 2 objects take 0.28k
+PGL_T_VIEW: 2 objects take 0.39k
+PGL_T_SCENE: 2 objects take 0.17k
+PGL_T_NODE: 66 objects take 18.05k
+: 1 objects take 0.00k
+: 1 objects take 0.00k
+: 1 objects take 0.00k
+: 2 objects take 0.00k
+: 90 objects take 0.00k
+: 6 objects take 0.00k
+: 2 objects take 0.00k
+PGL_T_SCREEN_WINDOW: 2 objects take 150.44k
+PGL_T_PRIM_MULTI_POLYLINE: 20900 objects take 0.00k
+PGL_T_APPEARANCE: 109 objects take 247.80k
+PGL_T_TEXTURE): 56 objects take 2.62k
+: 48 objects take 0.00k
+PGL_T_LINESTYLE): 15 objects take 5.98k
+PGL_T_APPEARANCE_MGR: 1 objects take 0.11k
+: 1 objects take 0.00k
+: 1 objects take 0.00k
+PGL_T_COLORREF: 117 objects take 5.48k
+: 1 objects take 0.00k
+: 1 objects take 0.00k
+: 1 objects take 0.00k
+: 1 objects take 0.00k
+: 4 objects take 0.00k
+: 1 objects take 0.00k
+PGL_T_APPDATA_KEY: 12 objects take 0.47k
+PGL_T_APPDATA_BOOL: 25 objects take 0.98k
+PGL_T_APPDATA_DWORD: 7563 objects take 295.43k
+PGL_T_APPDATA_DOUBLE: 2 objects take 0.08k
+PGL_T_APPDATA_UNKNOWN: 77 objects take 3.01k
+PGL_T_PRIM_TRI_STRIP_SET_WITH_ATT: 42 objects take 0.00k
+: 6 objects take 0.00k
+PGL_T_VIEW_REF: 2 objects take 0.20k
+PGL_T_TEXREF: 73 objects take 3.42k
+PGL_T_SURFPROP: 146 objects take 6.84k
+PGL_T_CALLBACK: 35 objects take 16.95k
+: 1 objects take 0.00k
+PGL_T_PAD: 12 objects take 254.44k
+: 2 objects take 0.00k
+PGL_T_SURFPROP_MGR: 1 objects take 0.10k
+: 1 objects take 0.00k
+Total memory in use by memory handles: 7392440 bytes
+37380 total objects take 2131.38k memory with 876.09k overhead
+no longer relevant since 8 bit isn't supported
+no longer relevant since 8 bit isn't supported
+ dbkey_get : invalid call, key = -1
+remove_view_component:  undefined application (ORDER_DEBUG)
+_clear_selbuf_func():  Clear function of the command ProCmdWinActivate
+ (INFO MESSAGE)
+W-promenu_on_button can not find ASSEMBLY-Move Dim
+W-promenu_on_button can not find ASSEMBLY-Modify Dim
+W-promenu_on_button can not find ASSEMBLY-Mod Explode
+W-promenu_on_button can not find ASSEMBLY-Modify Part
+W-promenu_on_button can not find ASSEMBLY-Export
+W-promenu_on_button can not find ASSEMBLY-Info
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+pglSetStatus: ipglSetRoutingdata: hiliteditem viewref mismatch
+ dbkey_get : invalid call, key = -1
+ dbkey_get : invalid call, key = -1

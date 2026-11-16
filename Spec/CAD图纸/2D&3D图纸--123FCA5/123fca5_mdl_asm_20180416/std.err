@@ -1,0 +1,37 @@
+%UIMSG-USER-ERROR, Did not find resource translation file "tree_node_tmpl_symb.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "animationlayout.txt"
+%UIMSG-USER-ERROR, Did not find resource translation file "lay_message_area.txt"
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Cannot modify the reverse horizontal placement flag
+%UIMSG-APPLICATION-ERROR, Failed to modify global attributes
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-USER-ERROR, Did not find resource translation file "regenstatusbar.txt"
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\PTC\Creo Elements\Pro5.0\../../libs/prowtlibs/text/compiled_resource/prowtlibs_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\PTC\Creo Elements\Pro5.0\../../proe/uitools/text/compiled_resource/uitools_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\PTC\Creo Elements\Pro5.0\../../text/compiled_resource/.._resources.dll
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to load translation dll C:\Program Files\PTC\Creo Elements\Pro5.0\../../libs/prowtlibs/text/compiled_resource/prowtlibs_chinese_cn_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load translation dll C:\Program Files\PTC\Creo Elements\Pro5.0\../../proe/uitools/text/compiled_resource/uitools_chinese_cn_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load translation dll C:\Program Files\PTC\Creo Elements\Pro5.0\../../text/compiled_resource/.._chinese_cn_resources.dll
+%UIMSG-USER-ERROR, Did not find resource translation file "list_sublay.txt"
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List ItemInquire: Item name is NULL for Ph_list.Filelist@file_open
+%UIMSG-APPLICATION-ERROR, Failed to do operation 202 to component: Ph_list.Filelist, in device: file_open
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named 123fca5_mdl_asm_20180416
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named 123fca5_mdl_asm_20180416
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, ui_push_action: Could not find component Modify, device: rmb_popup
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, ui_push_action: Could not find component Modify, device: rmb_popup
